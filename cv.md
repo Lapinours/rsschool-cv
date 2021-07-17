@@ -1,6 +1,8 @@
 
 # Karimova Laylo
 
+![Personal photo](./Picture.jpg)
+
 >__Contact information__
 
 __Gmail:__ karimova.laylo.01@gmail.com
