@@ -1,1 +1,0 @@
-https://Lapinours.github.io/rsschool-cv/cv
