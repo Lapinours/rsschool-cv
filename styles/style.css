@@ -1,5 +1,4 @@
 img{
-    /* height: ; */
     width: 24.3%;
     margin: 52px;
     margin-left:60px;
@@ -21,16 +20,12 @@ header h1{
     margin-right: 55%;
     padding-bottom: 16px;
     width: fit-content;
-    /* color: #003147; */
 }
 header div.self{
-/* text-align: center; */
 text-transform: uppercase;
 color: azure;
 margin-left: 5%;
-/* margin-left: 0; */
 position: relative;
-/* top: 52px; */
 }
 
 header .self div{
@@ -54,10 +49,8 @@ main{
 
 .left_side{
     position: relative;
-    /* background-color: #003147; */
     padding: 0 40px 40px;
     height: 88%;
-    /* border-style: dotted; */
     border-right: 3px solid #003147;
     margin-top: 73px;
 }
@@ -69,7 +62,6 @@ main{
 }
 
 .contact_info{
-    /* padding-top: 40px;   */
     position: relative;
     bottom: 30px;
 }
@@ -94,7 +86,6 @@ color: #03a9f4 ;
 }
 
 .contact_info ul li span{
-    /* color: #fff; */
     font-weight: inherit;
 }
 
@@ -102,7 +93,6 @@ color: #03a9f4 ;
 .title2{
     text-transform: uppercase;
     letter-spacing: 1.5px;
-    /* font-weight: bold; */
     margin-bottom: 30px;
     border-bottom: 2px solid #003147;
     padding-bottom: 16px;
@@ -118,7 +108,6 @@ padding-left: 0;
 
 .education ul > li{
 list-style: none;
-/* margin-bottom: 15px; */
     }
 
 .education h5{
@@ -128,13 +117,11 @@ list-style: none;
 }
 
 .education h4:nth-child(2){
-    /* color: #fff; */
     font-weight: 500;
     margin:10px 0;
 }
 
 .education h4{
-    /* color: #fff; */
     font-weight: 300;
     margin:10px 0;
 }
@@ -251,8 +238,6 @@ font-size:20px ;
 
  /* footer */
 footer{
-    /* background-color: black; */
-    /* width: 10%; */
     display: flex;
     align-items: center;
     justify-content: center;
