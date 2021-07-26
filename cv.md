@@ -33,13 +33,13 @@ Worked as Front End Developer at Mobilezone - online store of household applianc
 
 >__Skills__
 
-Javascript(Jquery) - beginner
-CSS(Bootstrap) - intermediate
-HTML - intermediate
-SQL(PostgreSQL, MySQL) - beginner
-Git - intermediate
-Figma - intermediate
-Trello, Jira - advanced
+* Javascript(Jquery) - beginner
+* CSS(Bootstrap) - intermediate
+* HTML - intermediate
+* SQL(PostgreSQL, MySQL) - beginner
+* Git - intermediate
+* Figma - intermediate
+* Trello, Jira - advanced
 
 >__Code sample__
 
@@ -64,6 +64,6 @@ document.getElementById("demo").innerHTML=
 
 >__Languages__
 
-Uzbek - native
-Russian - advanced
-English - advanced
+#### Uzbek - native
+#### Russian - advanced
+#### English - advanced
