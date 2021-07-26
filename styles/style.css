@@ -1,0 +1,260 @@
+img{
+    width: 24.3%;
+    margin: 52px;
+    margin-left:60px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    background-color: #003147;
+}
+header h1{
+    color: azure;
+    position: relative;
+    top: 52px;
+    word-spacing: 50vw;
+
+    margin-bottom: 30px;
+    border-bottom: 2px solid #03a9f4;
+    margin-right: 55%;
+    padding-bottom: 16px;
+    width: fit-content;
+}
+header div.self{
+text-transform: uppercase;
+color: azure;
+margin-left: 5%;
+position: relative;
+}
+
+header .self div{
+    position: relative;
+    top: 52px;
+}
+
+header div.position p{
+    text-transform: none; 
+        width: 80%;
+    font-size: x-large;
+    padding-top: 20px;
+}
+
+ /* middle */
+
+main{
+  display: grid;  
+  grid-template-columns: 1fr 2fr; 
+}
+
+.left_side{
+    position: relative;
+    padding: 0 40px 40px;
+    height: 88%;
+    border-right: 3px solid #003147;
+    margin-top: 73px;
+}
+
+/* contact */
+
+.design{
+    margin-bottom: 60px;
+}
+
+.contact_info{
+    position: relative;
+    bottom: 30px;
+}
+
+.contact_info ul{
+    position: relative;
+    padding-left: 0;
+}
+
+.contact_info ul > li{
+    position: relative;
+    list-style: none;
+    margin: 10px 0;
+    cursor: pointer;
+}
+
+.contact_info ul li .icon{
+display: inline-block;
+width: 30px;
+font-size: 18px;
+color: #03a9f4 ;
+}
+
+.contact_info ul li span{
+    font-weight: inherit;
+}
+
+.title, 
+.title2{
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    margin-bottom: 30px;
+    border-bottom: 2px solid #003147;
+    padding-bottom: 16px;
+    width: fit-content;
+    color: #003147;
+    }
+
+/* education */
+
+.education ul{
+padding-left: 0;
+}
+
+.education ul > li{
+list-style: none;
+    }
+
+.education h5{
+    color: #03a9f4;
+    font-weight: 500;
+    margin:10px 0;
+}
+
+.education h4:nth-child(2){
+    font-weight: 500;
+    margin:10px 0;
+}
+
+.education h4{
+    font-weight: 300;
+    margin:10px 0;
+}
+
+/* language */
+
+.language ul{
+    padding-left: 0;
+}
+
+.language ul > li{
+    list-style: none;
+    /* color: #fff; */
+    margin:10px 0;
+}
+
+.hobby ul{
+display: flex;
+padding-left: 0;
+}
+
+.hobby ul > li{
+    display: flex;
+    flex-direction: column;
+    margin-right: 30px;
+}
+
+.hobby ul li .icon{
+    align-self: center;
+    color: #03a9f4;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.right_side{
+    position: relative;
+    background-color: #fff;
+    padding: 40px;
+}
+
+.about p{
+    color: #333;
+font-size:20px ;
+}
+.about .block{
+    display: flex;
+    flex-direction: row;
+    margin: 20px 0;
+}
+
+.about .year_company{
+    min-width: 150px;
+} 
+
+.about .year_company h5{
+ text-transform: uppercase;
+ color: #848c90;
+ font-weight: 600;
+} 
+
+.about .text h4{
+    text-transform: uppercase;
+    color: #2a7da2;
+    font-size: 16px;
+   } 
+
+.skills .block{
+    position: relative;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 150px 1fr;
+    justify-content: center;
+    align-items: center;
+    margin:0;
+}
+
+.skills .block h4{
+    text-transform: uppercase;
+    color: #848c90;
+    font-weight: 500;
+}
+
+.skills .block .percent{
+    position: relative;
+    width: 100%;
+    height: 10px;
+    background-color: #f0f0f0;
+    margin-left: 20px;
+}
+
+.skills .block .percent div{
+    position: absolute;
+   top: 0;
+  left: 0;
+ height: 100%;
+ background-color: #03a9f4;
+}
+
+.soft_skills ul{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding-left:0;
+}
+
+.soft_skills ul > li{
+    color: #848c90;
+    font-size: 20px;
+    margin:10px 60px;
+    margin-left: 22px;
+    /* list-style: none; */
+    list-style-type: circle;
+  
+}
+
+ /* footer */
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #003147;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+footer div,
+a{
+    font-size: 45px;
+    margin: 0 25px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+}
+
+footer i{
+    color: #fff;
+}
