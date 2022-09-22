@@ -69,6 +69,6 @@ document.getElementById("demo").innerHTML=
 
 >__Languages__
 
-#### Uzbek - native
-#### Russian - advanced
-#### English - advanced
+* **Uzbek** - *native*
+* **Russian** - *advanced*
+* **English** - *advanced*
