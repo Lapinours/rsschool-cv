@@ -1,7 +1,7 @@
 
 # Karimova Laylo
 
-![Personal photo](./Picture.jpg)
+![Personal photo](./Picture.jpg){width=50}
 
 >__Contact information__
 

@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Lapinours.github.io/rsschool-cv/cv
